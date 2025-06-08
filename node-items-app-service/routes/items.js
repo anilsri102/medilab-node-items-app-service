@@ -12,6 +12,7 @@ const data = [
     { id: 6, title: 'Have a cup of Coffe', order: 6, completed: false, createdOn: new Date() },
     { id: 7, title: 'Have a plate of Meal', order: 7, completed: false, createdOn: new Date() },
     { id: 8, title: 'Have a biscuit', order: 8, completed: false, createdOn: new Date() },
+    { id: 9, title: 'Have a chai', order: 9, completed: false, createdOn: new Date() },
 ];
 
 // READ
